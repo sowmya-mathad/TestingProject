@@ -4,6 +4,7 @@ package funcInterfaceTest;
 import java.util.function.BiConsumer;
 import java.util.*;
 
+
 public class BiconsumerTest {
     public static void main(String[] arg) {
         BiConsumer<String,Integer> biconsumer1 = BiconsumerTest:: ShowDetails;

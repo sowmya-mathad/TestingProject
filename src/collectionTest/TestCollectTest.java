@@ -4,9 +4,7 @@ import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.List;
-import
 
-import static org.junit.jupiter.api.Assertions.*;
 
 
 class TestCollectTest {
@@ -17,7 +15,6 @@ class TestCollectTest {
         intList = Arrays.asList();
     }
 
-    @Test
     public void testing()
     {
 
