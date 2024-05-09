@@ -2,7 +2,8 @@ package funcInterfaceTest;
 
 import pojo.Student;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.function.Predicate;
 
 // Predicate represents an operation which takes an argument T and returns a boolean

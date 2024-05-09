@@ -1,7 +1,5 @@
 package DesignPattern.singleton;
 
-import org.hamcrest.core.IsInstanceOf;
-
 public class Sandbox {
     public static void main(String[] args) {
 

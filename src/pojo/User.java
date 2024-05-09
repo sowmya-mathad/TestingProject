@@ -1,5 +1,5 @@
 package pojo;
-import java.lang.*;
+
 public class User {
     String name;
     Integer id;

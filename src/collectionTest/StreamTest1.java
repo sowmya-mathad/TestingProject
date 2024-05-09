@@ -1,10 +1,7 @@
 package collectionTest;
 
 import java.util.*;
-import java.util.Collections;
 import java.util.stream.Collectors;
-
-import static java.util.stream.Collectors.partitioningBy;
 
 public class StreamTest1 {
     public static void main(String args[]) {

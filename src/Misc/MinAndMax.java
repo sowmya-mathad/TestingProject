@@ -1,6 +1,8 @@
-package collectionTest;
-import java.util.*;
-import java.lang.*;
+package Misc;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 public class MinAndMax {
     public static void main(String args[]) {
         List<Integer> intList = new ArrayList<Integer>();
