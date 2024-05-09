@@ -1,7 +1,9 @@
 package funcInterfaceTest;
+
 import pojo.Student;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.function.Supplier;
 
 // Supplier represents an operation which takes no argument and returns the results of type R.

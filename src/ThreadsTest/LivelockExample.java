@@ -3,8 +3,6 @@ package ThreadsTest;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-import static java.lang.Thread.sleep;
-
 public class LivelockExample {
 
     private Lock lock1 = new ReentrantLock(true);
