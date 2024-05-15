@@ -25,7 +25,7 @@ public class FetchEmpByLoc {
         Employee emp4 = new Employee(14, "ZZZ", skillSet4, 61000, "ATL",Gender.MALE, 45);
         Employee emp5 = new Employee(16, "HHHH", skillSet5, 12000, "NY", Gender.FEMALE,30);
         Employee emp6 = new Employee(15, "XXX", skillSet4, 61000, "ATL",Gender.FEMALE,35);
-        Employee emp7 = new Employee(14, "ZZZ", skillSet4, 61000, "ATL",Gender.MALE,27);
+        Employee emp7 = new Employee(17, "ZZZ", skillSet4, 61000, "ATL",Gender.MALE, 45);
 
 
         // charlotte, 10500 NY 17000, ATL 61000
