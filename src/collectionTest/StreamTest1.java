@@ -21,6 +21,10 @@ public class StreamTest1 {
 
         lst.add(listOfCountry);
 
+        Object[] str1 = listOfCountry.toArray();
+        System.out.println("TEsting:" + str1.toString());
+
+
         System.out.println("listOfCountry list: ");
         System.out.println("--------------------");
         lst.forEach(System.out :: println);
