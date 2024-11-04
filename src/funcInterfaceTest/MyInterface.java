@@ -3,7 +3,10 @@ package funcInterfaceTest;
 @FunctionalInterface
 public interface MyInterface {
     public void mySay();
-   // public void mySay1();
+
+     private void mySay1(){
+         System.out.println("Sowmya");
+     }
 
     public static void mySay2() {
         System.out.println("static Method");
