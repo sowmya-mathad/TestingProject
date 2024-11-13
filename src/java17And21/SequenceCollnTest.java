@@ -9,8 +9,9 @@ public class SequenceCollnTest {
         SequencedCollection<Integer> intSeq = new ArrayList<Integer>();
         intSeq.add(1);
         intSeq.addFirst(0);
-        intSeq.add(4);
+        intSeq.add(5);
         intSeq.add(3);
+        intSeq.add(4);
         intSeq.addLast(2);
 
         System.out.println("intSeq: " + intSeq);
